@@ -1,0 +1,1 @@
+﻿Write-Host (Get-ChildItem $HOME).Count "files found at" $HOME
